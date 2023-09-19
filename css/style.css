@@ -122,7 +122,7 @@ li:hover a{
         margin-bottom: 4px;
     }
     li{
-        width: 160px;
+        width: 200px;
         padding: 13px 0px 13px 18px;
     }
 
@@ -520,7 +520,7 @@ i{
         display: none;
     }
     #about-img{
-        width: 40%;
+        width: 45%;
         
     }
     #about-content{
@@ -587,7 +587,7 @@ span{
 /*small*/
 @media (max-width: 576px){
     .contact a, .contact div{
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 /*=============================================================================================================*/
